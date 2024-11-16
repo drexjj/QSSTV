@@ -8,7 +8,7 @@ QSSTV is a program for receiving and transmitting SSTV and HAMDRM (sometimes cal
 For sBitx you can install dependencies as follows:
 
 ```
-sudo apt install pkg-config g++ libfftw3-dev qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools libhamlib++-dev libasound2-dev libopenjp2-7 libopenjp2-7-dev libv4l-dev build-essential
+sudo apt install qmake6 pkg-config g++ libfftw3-dev qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools libhamlib++-dev libasound2-dev libopenjp2-7 libopenjp2-7-dev libv4l-dev build-essential
 ```
 
 ### Compile and Install
